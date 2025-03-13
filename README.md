@@ -7,7 +7,7 @@ git init
 git remote add origin git@github.com:FabriceDavidGit/ProjetGit.git
 '''
 
-## Rédiger un Commit
+## Rédiger un Commit avec une Description
 '''
 Titre du Commit
 
